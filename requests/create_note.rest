@@ -1,0 +1,7 @@
+POST http://localhost:5000/app/notes  
+Content-Type: application/json
+
+
+{
+    "content": " new note content"
+}
